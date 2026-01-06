@@ -1,0 +1,9 @@
+baseURL = "https://iiacoban42.github.io/tasty-bytes/"
+canonifyURLs = true
+languageCode = "en-us"
+title = "Tasty Bytes 🔥"
+theme = "recipes"
+
+[params]
+  author = "iiacoban42"
+  description = "Tasty Bytes"
