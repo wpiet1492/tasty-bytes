@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Tasty Bytes 🔥</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jan 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 09:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tasty-bytes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Italian</title>
+      <link>http://localhost:1313/tasty-bytes/tags/italian/</link>
+      <pubDate>Tue, 27 Jan 2026 09:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tasty-bytes/tags/italian/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Dutch</title>
       <link>http://localhost:1313/tasty-bytes/tags/dutch/</link>
