@@ -1,8 +1,8 @@
 <a class="box" href="{{ .Permalink }}" aria-label="{{ .Title }}">
   <div class="is-flex">
     {{ with .Params.featured_image }}
-    <figure class="image is-48x48" style="margin-right: 0.5em;">
-      <img alt="{{ . }}" class="is-rounded" src="{{ . }}" />
+    <figure class="image is-128x128" style="margin-right: 0.5em;">
+      <img alt="{{ . }}" class="is-rounded" style="width: 128px; height: 128px; object-fit: cover;" src="{{ . }}" />
     </figure>
     {{ end }}
     <div>

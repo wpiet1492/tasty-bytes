@@ -4,10 +4,17 @@
     <title>Tasty Bytes 🔥</title>
     <link>http://localhost:1313/tasty-bytes/</link>
     <description>Recent content on Tasty Bytes 🔥</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jan 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 09:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tasty-bytes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roasted Bell Pepper Soup with Chorizo</title>
+      <link>http://localhost:1313/tasty-bytes/recipes/roasted-bell-pepper-soup-with-chorizo/</link>
+      <pubDate>Wed, 28 Jan 2026 09:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tasty-bytes/recipes/roasted-bell-pepper-soup-with-chorizo/</guid>
+      <description>(4 ppl)</description>
+    </item>
     <item>
       <title>Rigatoni with roasted cherry tomatoes and burrata</title>
       <link>http://localhost:1313/tasty-bytes/recipes/rigatoni-roasted-cherry-tomatoes/</link>
@@ -27,7 +34,7 @@
       <link>http://localhost:1313/tasty-bytes/recipes/beans-and-sausage/</link>
       <pubDate>Mon, 22 May 2023 08:11:45 -0500</pubDate>
       <guid>http://localhost:1313/tasty-bytes/recipes/beans-and-sausage/</guid>
-      <description>Beans &amp;amp; Sausage (2-3 ppl)</description>
+      <description>(2-3 ppl)</description>
     </item>
   </channel>
 </rss>

@@ -1,11 +1,10 @@
 ---
 title: "Rigatoni with roasted cherry tomatoes and burrata"
-description: "Rigatoni with roasted cherry tomatoes and burrata"
 summary: "(4 ppl)"
 date: 2026-01-27T09:00:00-00:00
 draft: false
-time: "30m"
-tags: ["Italian"]
+time: "35m"
+tags: ["🇮🇹 Italian"]
 featured_image: "/rigatoni-roasted-cherry-tomatoes.jpg"
 ---
 

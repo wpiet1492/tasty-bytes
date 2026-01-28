@@ -1,11 +1,10 @@
 ---
 title: "Banana Pancakes with Nutella"
-description: "Banana Pancakes with Nutella"
 summary: "(4 ppl)"
 date: 2026-01-24T09:00:00-00:00
 draft: false
 time: "30m"
-tags: ["Dutch"]
+tags: ["🇳🇱 Dutch"]
 featured_image: "/banana-pancakes-nutella.jpg"
 ---
 

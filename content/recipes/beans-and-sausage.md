@@ -1,11 +1,10 @@
 ---
 title: "Beans & Sausage"
-description: "Beans & Sausage"
-summary: "Beans & Sausage (2-3 ppl)"
+summary: "(2-3 ppl)"
 date: 2023-05-22T08:11:45-05:00
 draft: false
 time: "30m"
-tags: ["🇷🇴 Romanian", "beans"]
+tags: ["🇷🇴 Romanian"]
 featured_image: "/beans-sausage.jpg"
 ---
 
