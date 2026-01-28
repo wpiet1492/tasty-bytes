@@ -18,7 +18,7 @@
           </h6>
         </div>
       </div>
-      <!-- Mobile: title, summary, image below -->
+      <!-- Mobile: title, summary, image below (smaller image) -->
       <div class="is-hidden-tablet">
         <h1 class="title is-1" style="word-break:break-word;">
           {{ .Title }}
@@ -27,8 +27,8 @@
           {{ .Summary }}
         </h6>
         {{ with .Params.featured_image }}
-        <figure class="image is-3by2" style="width: 100%; margin: 1.5em 0;">
-          <img alt="{{ . }}" style="width: 100%; height: auto; border-radius: 1em;" src="{{ . }}" />
+        <figure class="image" style="max-width: 220px; width: 100%; margin: 1.5em auto;">
+          <img alt="{{ . }}" style="width: 100%; height: auto; border-radius: 1em; display: block; margin: 0 auto;" src="{{ . }}" />
         </figure>
         {{ end }}
       </div>
