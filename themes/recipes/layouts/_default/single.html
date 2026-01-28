@@ -22,13 +22,13 @@
         <img alt="{{ . }}" style="width: 100%; height: auto; border-radius: 1em;" src="{{ . }}" />
       </figure>
       {{ end }}
-      <div style="margin-top: 1em;">
-        <span class="tag is-primary is-light">{{ .Params.Time }}</span>
-        {{ range .Params.Tags }}
-        <a class="tag" href="/tags/{{ . }}">{{ . }}</a>
-        {{ end }}
-      </div>
     </header>
+    <div style="margin-top: 1em; clear: both;">
+      <span class="tag is-primary is-light">{{ .Params.Time }}</span>
+      {{ range .Params.Tags }}
+      <a class="tag" href="/tags/{{ . }}">{{ . }}</a>
+      {{ end }}
+    </div>
     <div class="content" style="margin-top: 1em;">
       {{ .Content }}
     </div>
