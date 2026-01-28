@@ -22,21 +22,26 @@
 <div class="section">
   <article class="container">
     <header>
-      <div class="is-flex is-align-items-flex-start is-flex-direction-column-mobile is-flex-direction-row-tablet">
+      <div class="is-flex is-align-items-flex-start is-flex-direction-row">
         
-        <figure class="image is-96x96" style="margin-right: 0.5em; margin-bottom: 1em;">
+        <figure class="image is-96x96 is-hidden-mobile" style="margin-right: 0.5em;">
           <img alt="/banana-pancakes-nutella.jpg" class="is-rounded" src="http://localhost:1313/tasty-bytes/banana-pancakes-nutella.jpg" />
         </figure>
         
-        <div>
-          <h1 class="title is-1">
+        <div style="min-width:0;">
+          <h1 class="title is-1 recipe-title-responsive" style="word-break:break-word;">
             Banana Pancakes with Nutella
           </h1>
-          <h6 class="subtitle is-6">
+          <h6 class="subtitle is-6" style="word-break:break-word;">
             (4 ppl)
           </h6>
         </div>
       </div>
+      
+      <figure class="image is-3by2 is-hidden-tablet" style="width: 100%; margin: 1.5em 0;">
+        <img alt="/banana-pancakes-nutella.jpg" style="width: 100%; height: auto; border-radius: 1em;" src="http://localhost:1313/tasty-bytes/banana-pancakes-nutella.jpg" />
+      </figure>
+      
       <div style="margin-top: 1em;">
         <span class="tag is-primary is-light">30m</span>
         
@@ -65,6 +70,14 @@
     </div>
   </article>
 </div>
+<style>
+@media (max-width: 768px) {
+  .recipe-title-responsive {
+    font-size: 1.25rem !important;
+    line-height: 1.5 !important;
+  }
+}
+</style>
 
     </main></body>
 
