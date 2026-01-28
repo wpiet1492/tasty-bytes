@@ -21,10 +21,9 @@ featured_image: "/roasted-bell-pepper-soup-with-chorizo.jpg"
 
 1. Preheat the oven to 220°C. Cut the bell peppers into halves and place them skin-side up on a baking tray.
 2. Roast the peppers for about 30 minutes.
-4. Sauté half the shallots and chorizo crispy for 5 minutes.
-5. Saute the other half of shallots in a soup pan for 4 minutes.
-6. Add the roasted peppers and paprika powder and bake for 1 minute.
-7. Pour in the stock. Bring to a boil, then simmer for 10 minutes.
-8. Puree the soup with a blender until smooth. Season with salt and pepper.
-9. Serve the soup in bowls, topped with crispy chorizo.
-
+3. Sauté half the shallots and chorizo crispy for 5 minutes.
+4. Saute the other half of shallots in a soup pan for 4 minutes.
+5. Add the roasted peppers and paprika powder and bake for 1 minute.
+6. Pour in the stock. Bring to a boil, then simmer for 10 minutes.
+7. Puree the soup with a blender until smooth. Season with salt and pepper.
+8. Serve the soup in bowls, topped with crispy chorizo.

@@ -17,7 +17,7 @@ featured_image: "/beans-sausage.jpg"
 - 570 ml tomato soup or tomato juice
 - chilli (optional)
 
-# Spices & Aromatics
+## Spices & Aromatics
 - thyme
 - pepper
 - cumin
